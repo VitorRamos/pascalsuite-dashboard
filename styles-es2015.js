@@ -7,11 +7,11 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /tmp/pascalsuite-dashboard/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"8jWO");
-__webpack_require__(/*! /tmp/pascalsuite-dashboard/node_modules/bootstrap/scss/bootstrap.scss */"IbaP");
-__webpack_require__(/*! /tmp/pascalsuite-dashboard/node_modules/@fortawesome/fontawesome-free/css/all.min.css */"vs8Z");
-__webpack_require__(/*! /tmp/pascalsuite-dashboard/src/assets/scss/paper-dashboard.scss */"tbWW");
-module.exports = __webpack_require__(/*! /tmp/pascalsuite-dashboard/node_modules/ngx-toastr/toastr.css */"G9EY");
+__webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"8jWO");
+__webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/node_modules/bootstrap/scss/bootstrap.scss */"IbaP");
+__webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/node_modules/@fortawesome/fontawesome-free/css/all.min.css */"vs8Z");
+__webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/src/assets/scss/paper-dashboard.scss */"tbWW");
+module.exports = __webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/node_modules/ngx-toastr/toastr.css */"G9EY");
 
 
 /***/ }),

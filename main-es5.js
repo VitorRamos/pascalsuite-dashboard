@@ -17,7 +17,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! /tmp/pascalsuite-dashboard/src/main.ts */
+      /*! /tmp/bundler/pascalsuite-dashboard/src/main.ts */
       "zUnb");
       /***/
     },
@@ -69,12 +69,22 @@
       var ROUTES = [{
         path: '/dashboard',
         title: 'Dashboard',
-        icon: 'nc-bank',
+        icon: 'nc-chart-pie-36',
         "class": ''
       }, {
-        path: '/icons',
-        title: 'Icons',
-        icon: 'nc-diamond',
+        path: '/run',
+        title: 'Run',
+        icon: 'nc-button-play',
+        "class": ''
+      }, {
+        path: '/database',
+        title: 'Database',
+        icon: 'nc-bag-16',
+        "class": ''
+      }, {
+        path: '/scalability',
+        title: 'Scalability',
+        icon: 'nc-spaceship',
         "class": ''
       }];
 

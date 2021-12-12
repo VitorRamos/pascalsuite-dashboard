@@ -344,7 +344,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       __webpack_require__(
-      /*! /tmp/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
+      /*! /tmp/bundler/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-polyfills.js */
       "mRIq");
 
       __webpack_require__(
@@ -352,15 +352,15 @@
       "WnhU");
 
       __webpack_require__(
-      /*! /tmp/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js */
+      /*! /tmp/bundler/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js */
       "LEsg");
 
       __webpack_require__(
-      /*! /tmp/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-jit-polyfills.js */
+      /*! /tmp/bundler/pascalsuite-dashboard/node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/es5-jit-polyfills.js */
       "YJXN");
 
       module.exports = __webpack_require__(
-      /*! /tmp/pascalsuite-dashboard/src/polyfills.ts */
+      /*! /tmp/bundler/pascalsuite-dashboard/src/polyfills.ts */
       "hN/g");
       /***/
     },

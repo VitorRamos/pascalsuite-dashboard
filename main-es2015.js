@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /tmp/pascalsuite-dashboard/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /tmp/bundler/pascalsuite-dashboard/src/main.ts */"zUnb");
 
 
 /***/ }),
@@ -30,8 +30,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const ROUTES = [
-    { path: '/dashboard', title: 'Dashboard', icon: 'nc-bank', class: '' },
-    { path: '/icons', title: 'Icons', icon: 'nc-diamond', class: '' }
+    { path: '/dashboard', title: 'Dashboard', icon: 'nc-chart-pie-36', class: '' },
+    { path: '/run', title: 'Run', icon: 'nc-button-play', class: '' },
+    { path: '/database', title: 'Database', icon: 'nc-bag-16', class: '' },
+    { path: '/scalability', title: 'Scalability', icon: 'nc-spaceship', class: '' },
 ];
 let SidebarComponent = class SidebarComponent {
     ngOnInit() {
